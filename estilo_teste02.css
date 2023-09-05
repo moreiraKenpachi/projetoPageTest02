@@ -1,0 +1,133 @@
+.cabecalho{
+    width:800px;
+    height:350px;
+    background-color:goldenrod;
+}
+.cabecalho1{
+    width:600px;
+    height:150px;
+    background-color: green;
+    padding:5px;
+    margin-left:80px;        
+    font-size:15px;
+}
+.cabecalho2{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    width:600px;
+    height:150px;
+    background-color: green;
+    padding:5px;
+    margin-left:80px;
+    margin-top:10px;        
+    font-size:15px;
+}
+.menu{
+    width:50px;
+    height:40px;
+    background-color:grey;
+    margin:10px;
+}
+.principal{
+    width:800px;
+    height:350px;
+    background-color:goldenrod;
+    margin-top:10px;
+}
+.principal1{
+    width:600px;
+    height:150px;
+    background-color:green;
+    margin-left:80px;
+    padding-top:10px;
+}
+.principal1a{
+    width:500px;
+    height:50px;
+    background-color:grey;
+    margin-left:50px;
+    
+}
+.principal2{
+    width:600px;
+    height:150px;
+    background-color:green;
+    margin-left:80px;
+    margin-top:10px;
+    padding-top:10px;
+}
+.principal2a{
+    width:500px;
+    height:50px;
+    background-color: grey;
+    margin:10px;
+    margin-left:50px;
+}
+.video{
+    width:800px;
+    height:80px;
+    background-color:goldenrod;
+    margin-top:10px;
+    font-size:25px;
+}
+.meio{
+    width:800px;
+    height:350px;
+    background-color:goldenrod;
+    margin-top:10px;
+    padding-top:10px;
+}
+.meio1{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    width:600px;
+    height:180px;
+    background-color:green;
+    margin-left:80px;    
+}
+.meio1a{
+    width:500px;
+    height:50px;
+    background-color:grey;
+    margin-top:10px;
+    margin-left:50px;
+}
+.meio2{
+    width:600px;
+    height:50px;
+    background-color:green;
+    margin-top:10px;
+    margin-left:80px;
+    font-size:25px;
+}
+.animacao1{
+    display:flex;
+    justify-content:center;
+    width:800px;
+    height:80px;    
+    margin-top:10px;    
+    
+}
+.animacao1a{
+    width:350px;
+    height:80px;
+    background-color:goldenrod;
+      
+}
+.animacao1b{
+    width:350px;
+    height:80px;
+    background-color:goldenrod;
+    margin-left:10px;
+      
+}
+.animacao2{
+    width:350px;
+    height:80px;
+    background-color:goldenrod;
+    margin-top:10px;
+    margin-left:225px;
+    
+}
